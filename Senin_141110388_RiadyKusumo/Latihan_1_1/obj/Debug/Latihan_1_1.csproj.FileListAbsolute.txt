@@ -1,0 +1,9 @@
+C:\Users\Riady\Documents\Kuliah\Semester 5\Pemrograman Framework .NET Lanjutan\Senin_141110388_RiadyKusumo\Latihan_1_1\bin\Debug\Latihan_1_1.exe.config
+C:\Users\Riady\Documents\Kuliah\Semester 5\Pemrograman Framework .NET Lanjutan\Senin_141110388_RiadyKusumo\Latihan_1_1\bin\Debug\Latihan_1_1.exe
+C:\Users\Riady\Documents\Kuliah\Semester 5\Pemrograman Framework .NET Lanjutan\Senin_141110388_RiadyKusumo\Latihan_1_1\bin\Debug\Latihan_1_1.pdb
+C:\Users\Riady\Documents\Kuliah\Semester 5\Pemrograman Framework .NET Lanjutan\Senin_141110388_RiadyKusumo\Latihan_1_1\obj\Debug\Latihan_1_1.csprojResolveAssemblyReference.cache
+C:\Users\Riady\Documents\Kuliah\Semester 5\Pemrograman Framework .NET Lanjutan\Senin_141110388_RiadyKusumo\Latihan_1_1\obj\Debug\Latihan_1_1.Form1.resources
+C:\Users\Riady\Documents\Kuliah\Semester 5\Pemrograman Framework .NET Lanjutan\Senin_141110388_RiadyKusumo\Latihan_1_1\obj\Debug\Latihan_1_1.Properties.Resources.resources
+C:\Users\Riady\Documents\Kuliah\Semester 5\Pemrograman Framework .NET Lanjutan\Senin_141110388_RiadyKusumo\Latihan_1_1\obj\Debug\Latihan_1_1.csproj.GenerateResource.Cache
+C:\Users\Riady\Documents\Kuliah\Semester 5\Pemrograman Framework .NET Lanjutan\Senin_141110388_RiadyKusumo\Latihan_1_1\obj\Debug\Latihan_1_1.exe
+C:\Users\Riady\Documents\Kuliah\Semester 5\Pemrograman Framework .NET Lanjutan\Senin_141110388_RiadyKusumo\Latihan_1_1\obj\Debug\Latihan_1_1.pdb
